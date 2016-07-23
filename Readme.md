@@ -1,5 +1,5 @@
 # React Counter
-[![Build Status](https://travis-ci.org/lyef/lyef-react-counter.svg)](https://travis-ci.org/lyef-react-counter)
+[![Build Status](https://travis-ci.org/lyef/lyef-react-counter.svg)](https://travis-ci.org/lyef/lyef-react-counter)
 
 
 ## Getting Started
@@ -28,10 +28,10 @@ const doneCallback = () => console.log('done'); // Does something when count end
 
 ## Architecture
 
-We've developed this component using the following boilerplate:
+We've developed this component using the following boilerplate:  
 [lyef-react-component](https://github.com/lyef/lyef-react-component).
 
-To know more about the architecture or if you want to contribute with this component:
+To know more about the architecture or if you want to contribute with this component:  
 [Contributing Documentation](https://github.com/lyef/lyef-react-counter/blob/master/CONTRIBUTING.md).
 
 ## License
