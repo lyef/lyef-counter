@@ -12,6 +12,7 @@
 ### Folders and Files
 
 ```sh
+.
 ├── css
 │   └── main.css
 ├── dist
@@ -33,6 +34,9 @@
 ├── .eslintrc
 ├── .gitignore
 ├── .npmignore
+├── .travis.yml
+├── CONTRIBUTING.md
+├── LICENSE.md
 ├── Readme.md
 └── package.json
 ```
