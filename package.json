@@ -7,6 +7,7 @@
     "build": "npm run clean && ./node_modules/.bin/babel src -d dist",
     "pub": "npm run build && npm publish",
     "clean": "rimraf dist",
+    "start": "npm run storybook",
     "storybook": "./node_modules/.bin/start-storybook -p 9001 -c ./storybook",
     "build-storybook": "./node_modules/.bin/build-storybook -c ./storybook -o .out",
     "deploy-storybook": "storybook-to-ghpages",
