@@ -1,4 +1,4 @@
-# React Counter
+# Lyef React Counter
 [![Build Status](https://travis-ci.org/lyef/lyef-react-counter.svg)](https://travis-ci.org/lyef/lyef-react-counter)
 
 
