@@ -1,5 +1,5 @@
 import React from 'react';
-import Counter from '../src/Counter'; // This is our component
+import Counter from '../src/Main'; // This is our component
 import { storiesOf, action } from '@kadira/storybook';
 
 storiesOf('Counter', module)

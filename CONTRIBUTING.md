@@ -16,11 +16,11 @@
 ├── css
 │   └── main.css
 ├── dist
-│   └── Counter.js
+│   └── Main.js
 ├── src
-│   └── Counter.js
+│   └── Main.js
 ├── stories
-│   └── Counter.js
+│   └── Main.js
 ├── storybook
 │   ├── config.js
 │   └── webpack.config.js
@@ -28,7 +28,7 @@
 │   ├── helpers
 │   │   └── setup.js
 │   └── specs
-│       └── Counter.spec.js
+│       └── Main.spec.js
 ├── .babelrc
 ├── .editorconfig
 ├── .eslintrc
