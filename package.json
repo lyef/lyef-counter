@@ -1,5 +1,5 @@
 {
-  "name": "lyef-react-counter",
+  "name": "lyef-counter",
   "version": "1.0.0",
   "description": "Simple increment and decrement counter react component.",
   "main": "dist/Main.js",
@@ -28,19 +28,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lyef/lyef-react-counter.git"
+    "url": "git+ssh://git@github.com/lyef/lyef-counter.git"
   },
   "keywords": [
     "react",
     "component",
-    "base"
+    "counter",
+    "countdown"
   ],
   "author": "lyef (https://lyef.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lyef/lyef-react-counter/issues"
+    "url": "https://github.com/lyef/lyef-counter/issues"
   },
-  "homepage": "https://github.com/lyef/lyef-react-counter#README",
+  "homepage": "https://github.com/lyef/lyef-counter#README",
   "devDependencies": {
     "@kadira/storybook": "^1.38.0",
     "assert-equal-jsx": "^1.0.3",
