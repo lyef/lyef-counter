@@ -44,6 +44,7 @@
   "homepage": "https://github.com/lyef/lyef-counter#README",
   "devDependencies": {
     "@kadira/storybook": "^1.38.0",
+    "@kadira/storybook-deployer": "^1.0.0",
     "@personare/react-storybook-decorator-github-corner": "^0.1.4",
     "assert-equal-jsx": "^1.0.3",
     "babel-cli": "^6.11.4",
@@ -73,7 +74,6 @@
     "uglify-js": "^2.7.0"
   },
   "dependencies": {
-    "@kadira/storybook-deployer": "^1.0.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1"
   }
