@@ -25,7 +25,7 @@ class Counter extends React.Component {
             this.intervalId = setInterval(this.decrement, 1000);
         }
     }
-    
+
     componentWillUnmount() {
         clearInterval(this.intervalId);
     }
